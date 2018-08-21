@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # first look in pcre-$version or pcre subdirs
 if (PCRE_SOURCE)
     # either provided on cmdline or we've seen it already
